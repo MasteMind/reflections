@@ -1,0 +1,8 @@
+Q> What happens when you initialize a repository? Why do need to do it?
+					When we initialize a repository, the .git hidden folder is created which turns a normal folder into a repository.
+
+Q> How is the staging area different from the working directory and the repository? What value do you think it offers?
+					Staging area is an intermediate state/platoform that gives the programmers a right to store that limited files, which he chose to alter or save in the next commit. By providing the programmer with this option, we can reduce the size of commits and make each commit logically correct.
+
+Q> How can you use the staging area to make sure you have one commit per logical change?
+					We can use the staging are to see what files have been added to this. Then we can compare these fies with the already committed one. This was we can make sure that there is only one logical change per commit. We can remove the files thta are not significant from that staging area and then commit it.										
