@@ -12,3 +12,5 @@ Q> What are some situations when branches would behelpful in keeping your histor
 
 Q> How do the diagrams help you visualize the branch structure?
 					Diagrams help us by providing a guided and organised structure of the branch. This way we can easily grasp the direction or flow of the commits made.
+Q> What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+					By merging two branches we get to combine the changes that were made separately, without going through each and every line and checking their relevance. We represent it in the diagram that way because, it helps us in visualising and understanding the relation with other commits. It also helps us know which all commits are reachable from the current commit.
