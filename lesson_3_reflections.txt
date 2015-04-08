@@ -1,0 +1,2 @@
+Q> When would you want to create a remote repository rather than keeping all your work local?
+ When there is a group of more than one person, working on the same project but on the different aspects. Another case can be when the project is an open-source one and I wish to get contribution from other programmers all over the globe.
