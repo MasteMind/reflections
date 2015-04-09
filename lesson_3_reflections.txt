@@ -1,2 +1,7 @@
 Q> When would you want to create a remote repository rather than keeping all your work local?
- When there is a group of more than one person, working on the same project but on the different aspects. Another case can be when the project is an open-source one and I wish to get contribution from other programmers all over the globe.
+				When there is a group of more than one person, working on the same project but on the different aspects. Another case can be when the project is an open-source one and I wish to get contribution from other programmers all over the globe.
+Q> Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+				Because, at times there might be some changes that aren't made by me or there might be some changes that I have made in the local repository that i havent committed yet. IN those cases, automatic pulling might make me loose important changes.
+
+Q> Describe the differences between forks, clones and branches. When would you use one instead of another?
+				Fork is used when we need to clone someone else's repository and wish to continue working on it ourselves. Clone is used when we desire to make a copy of any repository from git hub to our local computer, or vice-versa. Branching is used in the cases where the project is to be divided and further continue into two different phases or by two different contributors.
